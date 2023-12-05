@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Saaisathish/React-site/static/css/main.6308eaa6.css",
-    "main.js": "/Saaisathish/React-site/static/js/main.c159bfa0.js",
-    "static/js/787.2dcca737.chunk.js": "/Saaisathish/React-site/static/js/787.2dcca737.chunk.js",
-    "static/media/saaiedit.jpg": "/Saaisathish/React-site/static/media/saaiedit.c92ee5fe9aa5eaabe977.jpg",
-    "static/media/selfie.jpg": "/Saaisathish/React-site/static/media/selfie.dd587896a9e58f30f683.jpg",
-    "static/media/project-5.jpg": "/Saaisathish/React-site/static/media/project-5.003b265aa17b79cc7e29.jpg",
-    "static/media/project-6.jpg": "/Saaisathish/React-site/static/media/project-6.c854d070df23436f452e.jpg",
-    "static/media/srm.png": "/Saaisathish/React-site/static/media/srm.ddb598e30f7dde2e8b3d.png",
-    "static/media/project-3.jpg": "/Saaisathish/React-site/static/media/project-3.0a41b8d5490e12b560e9.jpg",
-    "static/media/Ford-Logo.png": "/Saaisathish/React-site/static/media/Ford-Logo.310abcd0ebe7af75c88a.png",
-    "static/media/nvidia.png": "/Saaisathish/React-site/static/media/nvidia.1e68ed17521760f7d68d.png",
-    "static/media/slu.png": "/Saaisathish/React-site/static/media/slu.b5883f8f6975fa1896fb.png",
-    "static/media/intel.png": "/Saaisathish/React-site/static/media/intel.3446f3d6d390bb81ed52.png",
-    "static/media/contact.jpg": "/Saaisathish/React-site/static/media/contact.94bb66f12b5bfbd1327d.jpg",
-    "index.html": "/Saaisathish/React-site/index.html",
-    "main.6308eaa6.css.map": "/Saaisathish/React-site/static/css/main.6308eaa6.css.map",
-    "main.c159bfa0.js.map": "/Saaisathish/React-site/static/js/main.c159bfa0.js.map",
-    "787.2dcca737.chunk.js.map": "/Saaisathish/React-site/static/js/787.2dcca737.chunk.js.map"
+    "main.css": "/React-site/static/css/main.6308eaa6.css",
+    "main.js": "/React-site/static/js/main.0cb71cfd.js",
+    "static/js/787.2dcca737.chunk.js": "/React-site/static/js/787.2dcca737.chunk.js",
+    "static/media/saaiedit.jpg": "/React-site/static/media/saaiedit.c92ee5fe9aa5eaabe977.jpg",
+    "static/media/selfie.jpg": "/React-site/static/media/selfie.dd587896a9e58f30f683.jpg",
+    "static/media/project-5.jpg": "/React-site/static/media/project-5.003b265aa17b79cc7e29.jpg",
+    "static/media/project-6.jpg": "/React-site/static/media/project-6.c854d070df23436f452e.jpg",
+    "static/media/srm.png": "/React-site/static/media/srm.ddb598e30f7dde2e8b3d.png",
+    "static/media/project-3.jpg": "/React-site/static/media/project-3.0a41b8d5490e12b560e9.jpg",
+    "static/media/Ford-Logo.png": "/React-site/static/media/Ford-Logo.310abcd0ebe7af75c88a.png",
+    "static/media/nvidia.png": "/React-site/static/media/nvidia.1e68ed17521760f7d68d.png",
+    "static/media/slu.png": "/React-site/static/media/slu.b5883f8f6975fa1896fb.png",
+    "static/media/intel.png": "/React-site/static/media/intel.3446f3d6d390bb81ed52.png",
+    "static/media/contact.jpg": "/React-site/static/media/contact.94bb66f12b5bfbd1327d.jpg",
+    "index.html": "/React-site/index.html",
+    "main.6308eaa6.css.map": "/React-site/static/css/main.6308eaa6.css.map",
+    "main.0cb71cfd.js.map": "/React-site/static/js/main.0cb71cfd.js.map",
+    "787.2dcca737.chunk.js.map": "/React-site/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6308eaa6.css",
-    "static/js/main.c159bfa0.js"
+    "static/js/main.0cb71cfd.js"
   ]
 }
